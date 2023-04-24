@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430741015221",
+    "firebase_url": "https://weatherme-fcc6a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "weatherme-fcc6a",
+    "storage_bucket": "weatherme-fcc6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430741015221:android:40e7ef868c0e1de7e14cfc",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430741015221-car17sqeoa9h6nii6kveufg7u8tcb3pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9oLNAdQFPp2kCTaCz1d8shnO-dZ9KFtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430741015221-car17sqeoa9h6nii6kveufg7u8tcb3pe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430741015221-uavfvrlj10o10llsqm2qdg2v4pe7odqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
